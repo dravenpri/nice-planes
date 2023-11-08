@@ -13,11 +13,6 @@ Notify if configured planes have taken off or landed using Python with <a href="
 
 [ExImages](./ExImages)
 
-
-### Contributing
-
-I'm open to any help or suggestions, I realize there are many better ways to improve this program and better ways to get this program to work properly, I'm only a noob. I'll accept pull requests. If you'd like to discuss join <https://JacksTech.net/Discord>
-
 ### [Algorithm](PseudoCode.md)
 
 ## Setup / Install
